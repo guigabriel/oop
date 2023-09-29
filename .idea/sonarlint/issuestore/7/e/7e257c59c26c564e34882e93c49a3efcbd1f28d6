@@ -1,0 +1,6 @@
+
+:
+java:S1111"Remove this call to finalize().(ÜÌ²Âþÿÿÿÿ
+c
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ÜÌ²Âþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ
